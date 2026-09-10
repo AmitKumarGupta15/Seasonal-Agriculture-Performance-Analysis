@@ -1,0 +1,4 @@
+Project Name: Seasonal Agriculture Performance Analysis
+Program: VOIS AICTE Batch 1 2026–2027 Major Project
+Primary Deliverable: Jupyter Notebook
+Presentation: VOIS Major Project PPT
